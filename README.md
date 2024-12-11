@@ -1,2 +1,2 @@
-# GPT-Geni
-List of ChatGPT Prompts, Tools, etc.
+# GPT GENI - Prompts, Tools, etc.
+
