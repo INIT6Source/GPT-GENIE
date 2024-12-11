@@ -13,3 +13,13 @@
 ## [Megaparse](https://www.marktechpost.com/2024/12/03/meet-megaparse-an-open-source-ai-tool-for-parsing-various-types-of-documents-for-llm-ingestion/): Parsing Documents for LLM Ingestion
 
 Parse and preprocess various document types, making them suitable for large language model (LLM) ingestion. 
+
+## [NotebookLM](https://notebooklm.google/?gad_source=1): Research and Note-Taking by Google
+
+### Example Workflow
+
+1. Upload your lecture notes or research papers to NotebookLM.
+2. Ask questions like: "What are the main themes discussed in Chapter 3 of my notes?"
+3. Get a concise summary or contextual explanation based on your uploaded documents.
+4. Explore cross-document insights to connect ideas from different sources.
+
