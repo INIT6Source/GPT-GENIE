@@ -1,4 +1,4 @@
-# GPT GENI
+# GPT-GENI
 
 ## [ChatGPT Prompt Genius](https://www.reddit.com/r/ChatGPTPromptGenius/?share_id=-MX-u8-6gS5b28hwG4iE7&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=20): Creative Prompt Engineering
 
