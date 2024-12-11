@@ -8,10 +8,10 @@ Overview: Parse and preprocess various document types, making them suitable for 
 
 Overview: Examples for using ChatGPT creatively to deepen knowledge across various domains.
 
-"Explain [topic] to me step-by-step as if I were a beginner, then provide a quiz to test my understanding."
+- "Explain [topic] to me step-by-step as if I were a beginner, then provide a quiz to test my understanding."
 
-"You are a professor specializing in [field]. Teach me about [concept] and provide examples."
+- "You are a professor specializing in [field]. Teach me about [concept] and provide examples."
 
-"Ask me progressively challenging questions about [subject] and provide hints when I struggle."
+- "Ask me progressively challenging questions about [subject] and provide hints when I struggle."
 
-"How does [theory] apply in real-world scenarios? Give me examples I can relate to."
+- "How does [theory] apply in real-world scenarios? Give me examples I can relate to."
