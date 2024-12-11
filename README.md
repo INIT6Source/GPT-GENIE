@@ -2,7 +2,7 @@
 
 ## [ChatGPT Prompt Genius](https://www.reddit.com/r/ChatGPTPromptGenius/?share_id=-MX-u8-6gS5b28hwG4iE7&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=20): Creative Prompt Engineering
 
-Overview: Reddit community for sharing, exploring, and refining prompt engineering techniques for ChatGPT
+Reddit community for sharing, exploring, and refining prompt engineering techniques for ChatGPT
 
 ## [Learning with Prompts](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1h74mk8/actually_a_good_way_to_learn/?share_id=J9YTb2uqDzAXVyhmU7DeM&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=20): Learning Prompt Examples
 
